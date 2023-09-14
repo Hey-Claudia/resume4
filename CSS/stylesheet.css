@@ -1,5 +1,6 @@
 .intro {
-  background-color: #158bc7;
+  background-color: #236ab9;
+  color: #091d34;
   font-size: large;
   font-weight: bold;
   text-align: center;
@@ -11,7 +12,7 @@
 }
 
 .aside {
-  font-size: large;
+  font-size: 16px;
   font-weight: bold;
   text-align: center;
   color: black;
@@ -19,3 +20,6 @@
   margin-right: 90%;
 }
 
+h2 {
+  text-decoration: underline;
+}
