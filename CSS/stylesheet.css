@@ -1,0 +1,21 @@
+.intro {
+  background-color: #158bc7;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.img1 {
+  border-radius: 50%;
+  width: fit-content;
+}
+
+.aside {
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  background-color: #3a4856;
+  margin-right: 90%;
+}
+
