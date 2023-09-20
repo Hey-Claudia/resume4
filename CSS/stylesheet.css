@@ -3,10 +3,15 @@
 }
 
 html,
-body {padding 0
-  
+body {
+  padding: 0;
+  margin: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #236ab9;
+}
 .intro {
   background-color: #236ab9;
   color: #ffffff;
@@ -27,13 +32,26 @@ body {padding 0
   font-weight: bold;
   text-align: center;
   color: black;
-  background-color: #3a4856;
+  background-color: #cecece;
   margin-right: 90%;
+  margin-top: 0;
   padding: 10;
 }
 
-.main-body{
-  padding: 2rem;
-  margin: 10px;
+.menu {
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
+.main-body {
+  padding: 2rem;
+  margin: 0px;
+}
+
+.footer {
+  padding-top: 0;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin: 0px;
 }
